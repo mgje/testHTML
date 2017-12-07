@@ -23,7 +23,8 @@
 1. Github stellt verschiedene kollaborative Werkzeuge zur Verfügung, unter anderem auch ein Wiki
 ![](images/start_wiki.png)
 
-
+1. Eine exemplarische Webseite mit einfachen Interaktionen (2013), Link https://github.com/mgje/ZahlenMauer
+![](images/zahlenmauer.png)
 
 
 
