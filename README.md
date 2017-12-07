@@ -18,6 +18,12 @@
 1. Orderner mit Bilder hochladen (Drag & Drop)
 ![](images/drag_drop.png)
 
+1. Die Bilder können in der Webseite im Wiki oder in Dateien (README.txt) mit relativen Pfaden verwendet werden, z.B. ```images/firstStep.png```
+
+1. Github stellt verschiedene kollaborative Werkzeuge zur Verfügung, unter anderem auch ein Wiki
+![](images/start_wiki.png)
+
+
 
 
 
